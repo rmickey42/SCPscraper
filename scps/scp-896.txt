@@ -1,0 +1,39 @@
+Item #: SCP-896
+
+Object Class: Safe
+
+Special Containment Procedures: Physical containment of SCP-896 is impossible due to widespread public knowledge. However, the anomalous properties of SCP-896 have been largely neutralized through Foundation efforts and the cooperation of ████ █████, the publishing and hosting company of SCP-896.
+
+The server cluster hosting SCP-896’s original code is to be housed at Site-15. Five standard desktop computers are to be directly connected to the server with SCP-896-1 installed on each one. SCP-896 may never be connected to the internet or any of Site-15’s networks, but may be regularly patched as needed by use of physical media.
+
+Any personnel wishing to use SCP-896 must obtain permission from two Level 4 administrators. Foundation personnel may not use SCP-896 until further notice. No personnel level 4 or above may use SCP-896 due to potential loss of valuable Foundation data. Any class-D personnel used in testing of SCP-896 must be routinely monitored for the effects of SCP-896 and containment procedures must be tailored individually to ensure no security breaches occur.
+
+Description: SCP-896 is known to the public as ████ █ ████, a popular online role playing game. The version of SCP-896 that the public uses has no anomalous effects. However, the original code developed by ███ ████ exhibits effects that warrant ████ █ ████’s classification as an SCP.
+
+SCP-896 functions as any normal online role playing game. Please consult normal non-Foundation articles if not familiar with the mechanics and terminology of an online role playing game.
+
+SCP-896’s abnormal behavior only manifests when a user creates an avatar which shares the exact first and last name of the user. Once this occurs, the user is “imprinted” upon the avatar. Once imprinted, any changes to the avatar’s statistics will have a direct effect upon the user. How this occurs is not well understood. The current hypothesis is SCP-896 allows the user to exhibit a powerful “mind over matter” control over their body and surroundings.
+
+There are six stats that directly affect the abilities of the user. Raising the stats in game causes a corresponding increase in the physical or mental characteristics of the user. However, if one stat is 15% greater than any other stat, all other physical attributes of the user suffer. The stats and their link to real physical abilities are described below.
+
+Strength (STR): Self explanatory; as an avatar’s strength increase, so does the user’s.
+Agility (AGI): Highly agile users note a high accuracy of movement and control over their body. This grace allows for a great speed of movement with no sacrifice of skill or accuracy of the desired action.
+Stamina (STA): Increased stamina results in the ability to go longer without food or sleep, enhanced physical endurance, and even resistance to disease and physical damage.
+Charisma (CHR): Charisma grants the user a deep understanding of an individual and exploits this to manipulate them to their own wants.
+Intelligence (INT): Higher intelligence leads to an increase in the information retention and problem solving capabilities of the user.
+Wisdom (WIS): Allows the user a deeper understanding of situations and people and allows them to see the best possible solution for the problem. It should be noted that the “best possible solution” is based upon the morals and ethical priorities of the subject.
+
+Recovery Log: SCP-896’s effects were first noted during the beta test. MTF Mu-4’s routine monitoring intercepted intra-office e-mails detailing the effects, and quickly moved in to secure SCP-896. SCP-896 was already highly anticipated by the general public, so simply burying the project was not an option. SCP-896 was released to the general public with significant code alterations to ensure SCP-896 would not exhibit anomalous behavior. The old beta code was quickly patched, and SCP-896 was effectively contained.
+
+Test Log SCP-896-A:
+A group of five class-D personnel was selected for testing, based upon their knowledge of computer gaming, compliance with Foundation instruction, and below average physical and mental characteristics. Each class-D was assigned a role within the group designed to test one specific statistic. For ease of reading, D-896-a through D-896-e are referred to by an alias describing their role, as follows:
+
+D-896-a: Knight - character focus on stamina.
+D-896-b: Berserker – character focus on strength.
+D-896-c: Cleric – character focus on wisdom.
+D-896-d: Warlock – character focus on intelligence.
+D-896-e: Bard – character focus on charisma.
+
+Test Log SCP-896-B:
+Dr. ████, a level 3 researcher, was conservatively using SCP-896 to augment his abilities. Dr. ████ was increasing his stats uniformly to avoid any negative effects. Dr. ████ was 53 years old and in good health, and his strength and IQ had increased 7% since beginning use of SCP-896. Dr. ████ decided to have a “game-a-thon” over Thanksgiving weekend in 20██, in which he played SCP-896 for an estimated █ hours straight before he expired. Autopsies revealed evidence of severe arthritis, early onset Alzheimer’s, cataract, and development of several tumors. The medical examiner could only conclude that Dr. ████ had died of old age. Further use of SCP-896 by Foundation personnel has been suspended until the direct correlation between the aging effects brought on by leveling is understood.
+

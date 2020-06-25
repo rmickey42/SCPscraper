@@ -1,0 +1,32 @@
+Item #: SCP-245
+
+Object Class: Safe
+
+Special Containment Procedures: Copies of SCP-245-1 are to be contained on airgapped computers. These computers are to be located on floor 10, section C of Site-88. Individual iterations of SCP-245-1 are to be monitored and completed on a regular basis to ensure continued containment.
+
+Major changes to SCP-245-1's gameworld are to be reported to SCP-245's project head. Under no circumstances should SCP-245-1's master password be revealed to any entities encountered in SCP-245-1.
+
+Description: Please see SCP-245-1.zip for information relating to SCP-245.
+
+Notice: SCP-245-1 will only run on a system utilizing OSCP or the Windows operating system.
+
+
+
+
+
+Item #: SCP-245
+
+Object Class: Safe
+
+Special Containment Procedures: Copies of SCP-245-1 are to be contained on airgapped computers. These computers are to be located on floor 10, section C of Site-88. Individual iterations of SCP-245-1 are to be monitored and completed on a regular basis to ensure continued containment.
+
+Major changes to SCP-245-1's gameworld are to be reported to SCP-245's project head. Under no circumstances should SCP-245-1's master password be revealed to any entities encountered in SCP-245-1.
+
+Description: Please see SCP-245-1.zip for information relating to SCP-245.
+
+Notice: SCP-245-1 will only run on a system utilizing OSCP or the Windows operating system.
+
+
+
+
+

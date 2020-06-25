@@ -1,0 +1,128 @@
+Special Containment Procedures: All copies of SCP-351 are to be stored on secure Foundation containment databases, with access only available to Memetics Division personnel. If testing is performed, a "blank" copy of SCP-351 consisting solely of SCP-351-1 will be used to neutralize the anomaly's effects in the test subject and potentially compromised personnel.
+
+Bots I/O-SHANNON and I/O-MINERVA are programmed to routinely scan online websites for the appearances of SCP-351 copies. Found copies are to be downloaded then removed from the sites under standard online anomaly containment protocols. Mobile Task Force ψ-13 ("EOT") has been tasked with halting mass memory alteration in the event SCP-351 affects large portions of the populace. Task force agents must follow standard memetic quarantine protocols and are equipped with electronics that display the aforementioned blank copies, which must be viewed on a twice-daily basis.
+
+Testing to determine the limitations of the anomaly's implanted memories is underway.
+
+Description: SCP-351 is an ASCII plaintext (.txt) file containing a virulent memetic agent, which implants false memories visualized as ASCII art1 into human subjects that view the file. The primary component of the anomaly is SCP-351-1, a string of 30 characters which does not correspond to characters in any known encoding standard, which converts the entire file into a memetic vector.
+
+Additional text added to the file is the basis for the false memories SCP-351 implants, with the level of detail the text has corresponding to the level of detail subjects can recall from the "memories." All memories are recalled eidetically and are resistant to all amnestic treatments and effects. Copies of the file (SCP-351-A) display the same properties. However, exposing subjects to SCP-351 or a copy of the file lacking text other than SCP-351-1 (hereafter "blanks") results in the memory being being replaced by a "blank" memory, entirely removing it. This in turn serves as the primary method of removing the memetic infection.
+
+Despite the clear recall, subjects report that the memories lack the immediacy and richness of their other memories. It is theorised that this is the result of the strings of text the memories are based on inherently lacking the sensory qualia normal memories are based on.
+
+Subjects memetically compromised by the files (hereafter SCP-351-B instances) are capable of implanting their false memories into persons they associate with, such as friends or colleagues. Conversations of any medium involving an instance will result in the instance discussing memories from SCP-351, turning the conversation into a memetic vector which affects all persons involved in it. These affected persons become further SCP-351-B instances, and can spread the meme in the same manner.
+
+Beyond the addition of previously nonexistent memories, SCP-351-B experience few other cognitive effects. Instances behave as they would prior to infection when not in conversation with uninfected individuals, and questioning regarding any ways SCP-351 memories conflict with actual memories is met with disregard. Symptoms of lethargy, anhedonia and apathy have been observed in SCP-351-B instances at significantly higher rates of incidence than in the unexposed population.
+
+Addendum.1: SCP-351 Text Samples
+
+The following are excerpts from SCP-351-A instances as they were found at the time of their discovery. Full copies of the file contents are available in Document 351-RT/267.
+
+Instance #: SCP-351-A5
+
+You were marching through the forest, everything dark except for the flashlights of fellow survivors and the Enemy bombs going off overhead. Their explosions looked like blinding sparks. John's blood was still warm on you and your gun, and every time you looked behind you expected to see him there, smiling like always, but he wasn't there. The napalming turned everything to incinerator heat.
+
+The palm trees swayed and broke, cinders going into your nose. The Enemy's soldiers emerged from the canopy, rappelling in and they shot at you. You never felt a more searing, stabbing pain in your life than when the bullets hit your body, the sensation of a thousand fire ants at an open wound. With luck you fell to the ground, out of their sight. The rest didn't. You heard their screams. You only saw the bloodied dirt in front of your face.
+
+You knew that the Enemy did this, and for that you hated. You hated the Enemy. At that moment you vowed to fight the Enemy for the rest of your life, and you vowed that you would make the trek to [COORDINATES REDACTED] to train for an eternity of combat with the Enemy. For John. For the survivors. For the world.
+
+Recovery: Found on a computer at an abandoned military complex in Denali National Park and Preserve, Alaska. Additional files in the area suggested plans to disseminate copies of SCP-351-A5 onto various online forums had been arranged, though had not been performed for unclear reasons.
+
+Instance #: SCP-351-A19
+
+You didn't drive the car past the red light. It was green, and the street was clear of pedestrians and cars. Your vision wasn't blurred — you were sober. It was dark but your headlights were on so you could see the road fine. Your wife wasn't shouting at you. Her head was leaning against your shoulder.
+
+You saw the other car coming so you could swerve out the road in time. You were on the right side of the road and they were on the wrong side, so you had done nothing wrong. It would've been impossible for your cars to crumple together, for the windshield to shatter, and even if that did happen it would make no sense because you swerved out of the way in time. Your seatbelts were buckled so nobody could've gone through the window. You had no sights of blood. Or glass shards in your body. Or her body.
+
+Your one year anniversary celebration with her happened the day after. It was a great party. She was laughing, and smiling, and talking about how great of a career her lab work has been. The days after were happy. And so have the months after been. She's been with you the whole time, she hasn't gone off. Four months of joy since the anniversary.
+
+It wasn't your fault.
+
+Recovery: Found on the personal computer of Sandra Holt after her suicide on 04/12/2006.
+
+RELATED FILES:
+
+Addendum.2: Experiment Log 351/1
+
+On 09/01/2007, Researcher Ferdinand Fortier was granted permission to perform preliminary tests to determine the limitations of SCP-351's memory alteration capabilities. Tests would be conducted with Fortier and his research team inserting text into an SCP-351-A instance via autonomous processes, then displayed to a D-Class subject who would be infected and subsequently asked to describe their memories. Blanks would then be shown to the subject and the whole research team, as to minimize the potential for memetic spread.
+
+Addendum.3: Project Tin Man
+
+On 29/03/2007, Researcher Lucinde Behringer was performing standard monitoring of SCP-9906 when the anomaly's cognitohazardous properties bypassed all memetic filtration systems, converting Behringer into a memetic vector. Before a containment breach could ensue, Behringer injected all available amnestics in her vicinity and exposed herself to experimental anti-memetic glyphs. The cumulative effect of both the anomaly and the measures taken by herself was the complete erasure of her personality, memories, and almost all mental faculties. This induced an effective vegetative state. After being connected to life support, no methods were found by which Behringer could be returned to her prior state.
+
+On 21/04/2007, the Ethics Committee granted approval for the experimental use of SCP-351 in reconstructing Behringer's personality and memories. Classified Project Tin Man, all database information on Behringer, correspondence from coworkers3, and personal journal entries were gathered to write a heavily detailed text with the potential to restore her mental states. Said text would be comprised of all known thoughts, life events, memories, and personality traits arranged in chronological order. By 01/10/2007 the text had reached 50,000 words.
+
+Once no new information could be found, the text was added to a specially designated SCP-351-A copy (SCP-351-AΔ). On 10/10/2007 Researcher Behringer was exposed to the file. Initially only slight limb movements were performed, but after one hour she began to pace around her room. An interview was performed the following day.
+
+In a state of emotional distress, Researcher Bousaid exited the chamber without viewing the blank on his computer terminal, breaching standard security protocols. This resulted in the memetic spread of SCP-351-BΔ's memory constructs to all present Project Tin Man personnel until site security was alerted and dispatched.
+
+Unusually, upon exposure to blank instances, the affected personnel experienced a near-complete loss of all memories regarding SCP-351-BΔ. The theorized cause of this is that the implanted SCP-351-AΔ memories were so similar to actual memories of SCP-351-BΔ that both became connected, causing the erasure of implanted memories to erase the actual ones. Since all acquaintances of SCP-351-BΔ had been recruited for Project Tin Man and were present when Bousaid breached protocol, all of the original memories SCP-351-AΔ had been based on are lost.
+
+Researcher Bousaid has been removed from all SCP-351-related research and new security protocols are being implemented to prevent the repeat of incidents of this nature. Project Tin Man has been considered a failure. However, SCP-351-BΔ has proven useful in isolated environments that prevent memetic spread. Following revisions to SCP-351-AΔ that removed information regarding emotions and added loyalty-increasing text4, SCP-351-BΔ can consistently perform activities beneficial to memetics research on a daily basis.
+
+Assuming plans for life support systems that will automatically provide health assistance to subjects are completed, SCP-351-BΔ is expected to be capable of serving the Foundation indefinitely.
+
+Special Containment Procedures: All copies of SCP-351 are to be stored on secure Foundation containment databases, with access only available to Memetics Division personnel. If testing is performed, a "blank" copy of SCP-351 consisting solely of SCP-351-1 will be used to neutralize the anomaly's effects in the test subject and potentially compromised personnel.
+
+Bots I/O-SHANNON and I/O-MINERVA are programmed to routinely scan online websites for the appearances of SCP-351 copies. Found copies are to be downloaded then removed from the sites under standard online anomaly containment protocols. Mobile Task Force ψ-13 ("EOT") has been tasked with halting mass memory alteration in the event SCP-351 affects large portions of the populace. Task force agents must follow standard memetic quarantine protocols and are equipped with electronics that display the aforementioned blank copies, which must be viewed on a twice-daily basis.
+
+Testing to determine the limitations of the anomaly's implanted memories is underway.
+
+Description: SCP-351 is an ASCII plaintext (.txt) file containing a virulent memetic agent, which implants false memories visualized as ASCII art1 into human subjects that view the file. The primary component of the anomaly is SCP-351-1, a string of 30 characters which does not correspond to characters in any known encoding standard, which converts the entire file into a memetic vector.
+
+Additional text added to the file is the basis for the false memories SCP-351 implants, with the level of detail the text has corresponding to the level of detail subjects can recall from the "memories." All memories are recalled eidetically and are resistant to all amnestic treatments and effects. Copies of the file (SCP-351-A) display the same properties. However, exposing subjects to SCP-351 or a copy of the file lacking text other than SCP-351-1 (hereafter "blanks") results in the memory being being replaced by a "blank" memory, entirely removing it. This in turn serves as the primary method of removing the memetic infection.
+
+Despite the clear recall, subjects report that the memories lack the immediacy and richness of their other memories. It is theorised that this is the result of the strings of text the memories are based on inherently lacking the sensory qualia normal memories are based on.
+
+Subjects memetically compromised by the files (hereafter SCP-351-B instances) are capable of implanting their false memories into persons they associate with, such as friends or colleagues. Conversations of any medium involving an instance will result in the instance discussing memories from SCP-351, turning the conversation into a memetic vector which affects all persons involved in it. These affected persons become further SCP-351-B instances, and can spread the meme in the same manner.
+
+Beyond the addition of previously nonexistent memories, SCP-351-B experience few other cognitive effects. Instances behave as they would prior to infection when not in conversation with uninfected individuals, and questioning regarding any ways SCP-351 memories conflict with actual memories is met with disregard. Symptoms of lethargy, anhedonia and apathy have been observed in SCP-351-B instances at significantly higher rates of incidence than in the unexposed population.
+
+Addendum.1: SCP-351 Text Samples
+
+The following are excerpts from SCP-351-A instances as they were found at the time of their discovery. Full copies of the file contents are available in Document 351-RT/267.
+
+Instance #: SCP-351-A5
+
+You were marching through the forest, everything dark except for the flashlights of fellow survivors and the Enemy bombs going off overhead. Their explosions looked like blinding sparks. John's blood was still warm on you and your gun, and every time you looked behind you expected to see him there, smiling like always, but he wasn't there. The napalming turned everything to incinerator heat.
+
+The palm trees swayed and broke, cinders going into your nose. The Enemy's soldiers emerged from the canopy, rappelling in and they shot at you. You never felt a more searing, stabbing pain in your life than when the bullets hit your body, the sensation of a thousand fire ants at an open wound. With luck you fell to the ground, out of their sight. The rest didn't. You heard their screams. You only saw the bloodied dirt in front of your face.
+
+You knew that the Enemy did this, and for that you hated. You hated the Enemy. At that moment you vowed to fight the Enemy for the rest of your life, and you vowed that you would make the trek to [COORDINATES REDACTED] to train for an eternity of combat with the Enemy. For John. For the survivors. For the world.
+
+Recovery: Found on a computer at an abandoned military complex in Denali National Park and Preserve, Alaska. Additional files in the area suggested plans to disseminate copies of SCP-351-A5 onto various online forums had been arranged, though had not been performed for unclear reasons.
+
+Instance #: SCP-351-A19
+
+You didn't drive the car past the red light. It was green, and the street was clear of pedestrians and cars. Your vision wasn't blurred — you were sober. It was dark but your headlights were on so you could see the road fine. Your wife wasn't shouting at you. Her head was leaning against your shoulder.
+
+You saw the other car coming so you could swerve out the road in time. You were on the right side of the road and they were on the wrong side, so you had done nothing wrong. It would've been impossible for your cars to crumple together, for the windshield to shatter, and even if that did happen it would make no sense because you swerved out of the way in time. Your seatbelts were buckled so nobody could've gone through the window. You had no sights of blood. Or glass shards in your body. Or her body.
+
+Your one year anniversary celebration with her happened the day after. It was a great party. She was laughing, and smiling, and talking about how great of a career her lab work has been. The days after were happy. And so have the months after been. She's been with you the whole time, she hasn't gone off. Four months of joy since the anniversary.
+
+It wasn't your fault.
+
+Recovery: Found on the personal computer of Sandra Holt after her suicide on 04/12/2006.
+
+RELATED FILES:
+
+Addendum.2: Experiment Log 351/1
+
+On 09/01/2007, Researcher Ferdinand Fortier was granted permission to perform preliminary tests to determine the limitations of SCP-351's memory alteration capabilities. Tests would be conducted with Fortier and his research team inserting text into an SCP-351-A instance via autonomous processes, then displayed to a D-Class subject who would be infected and subsequently asked to describe their memories. Blanks would then be shown to the subject and the whole research team, as to minimize the potential for memetic spread.
+
+Addendum.3: Project Tin Man
+
+On 29/03/2007, Researcher Lucinde Behringer was performing standard monitoring of SCP-9906 when the anomaly's cognitohazardous properties bypassed all memetic filtration systems, converting Behringer into a memetic vector. Before a containment breach could ensue, Behringer injected all available amnestics in her vicinity and exposed herself to experimental anti-memetic glyphs. The cumulative effect of both the anomaly and the measures taken by herself was the complete erasure of her personality, memories, and almost all mental faculties. This induced an effective vegetative state. After being connected to life support, no methods were found by which Behringer could be returned to her prior state.
+
+On 21/04/2007, the Ethics Committee granted approval for the experimental use of SCP-351 in reconstructing Behringer's personality and memories. Classified Project Tin Man, all database information on Behringer, correspondence from coworkers3, and personal journal entries were gathered to write a heavily detailed text with the potential to restore her mental states. Said text would be comprised of all known thoughts, life events, memories, and personality traits arranged in chronological order. By 01/10/2007 the text had reached 50,000 words.
+
+Once no new information could be found, the text was added to a specially designated SCP-351-A copy (SCP-351-AΔ). On 10/10/2007 Researcher Behringer was exposed to the file. Initially only slight limb movements were performed, but after one hour she began to pace around her room. An interview was performed the following day.
+
+In a state of emotional distress, Researcher Bousaid exited the chamber without viewing the blank on his computer terminal, breaching standard security protocols. This resulted in the memetic spread of SCP-351-BΔ's memory constructs to all present Project Tin Man personnel until site security was alerted and dispatched.
+
+Unusually, upon exposure to blank instances, the affected personnel experienced a near-complete loss of all memories regarding SCP-351-BΔ. The theorized cause of this is that the implanted SCP-351-AΔ memories were so similar to actual memories of SCP-351-BΔ that both became connected, causing the erasure of implanted memories to erase the actual ones. Since all acquaintances of SCP-351-BΔ had been recruited for Project Tin Man and were present when Bousaid breached protocol, all of the original memories SCP-351-AΔ had been based on are lost.
+
+Researcher Bousaid has been removed from all SCP-351-related research and new security protocols are being implemented to prevent the repeat of incidents of this nature. Project Tin Man has been considered a failure. However, SCP-351-BΔ has proven useful in isolated environments that prevent memetic spread. Following revisions to SCP-351-AΔ that removed information regarding emotions and added loyalty-increasing text4, SCP-351-BΔ can consistently perform activities beneficial to memetics research on a daily basis.
+
+Assuming plans for life support systems that will automatically provide health assistance to subjects are completed, SCP-351-BΔ is expected to be capable of serving the Foundation indefinitely.
+

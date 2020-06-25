@@ -1,0 +1,30 @@
+
+
+Item #: SCP-715
+
+Object Class: Safe Keter Safe
+
+Special Containment Procedures [OUTDATED: SEE BELOW]: SCP-715 is to be contained at its point of origin within the ████████ City Mall in ████████, Ohio. Remote surveillance of SCP-715 has been authorized, and any images produced by SCP-715 are to be collected by Foundation personnel posing as mall employees. These images are to be returned to Site-81 for further examination.
+
+Keter Class Containment Procedure Amendment [OUTDATED: SEE BELOW]: SCP-715 is to be contained within a maximum security large item locker at Site-19. Access to SCP-715 is limited to personnel with 715/4 Special Clearance or above. Under no circumstances are any personnel, regardless of classification level, to enter or activate SCP-715 in any way. Examination of the interior of SCP-715 is to be done by a remotely controlled drone only.
+
+Instances of SCP-715-B are considered Class V Cognitohazardous Entities, and due to their nature cannot be properly identified without the use of optical enhancement technology. Instances of SCP-715-B are to be terminated immediately upon identification using whatever means necessary.
+
+Safe Class Containment Procedure Amendment: SCP-715 is to be contained within a maximum security storage locker at Site-81. No other containment procedures are currently necessary. Foundation personnel are restricted from any interaction with any known instance of SCP-715-B.
+
+Information regarding Site 81/715 is on a need-to-know basis. Administrators with the proper security clearance may view this information at the end of this file.
+
+Description: SCP-715 is a "Take Your Own Photo" fotomat model photo booth manufactured by the Sony corporation in 1972. SCP-715 displays no anomalous characteristics in its design or appearance. A small metal tag has been added to the backside of the machine, but significant wear has obscured any text contained on the tag.
+
+SCP-715 will not activate unless an individual sits within the main booth area and inputs the necessary tokens into the activation slot has been known to animate sporadically, producing images believed to be modified from previous shots. The impetus behind this activity is currently unknown, although research is ongoing. Images produced by SCP-715 are often heavily distorted the reason for this is currently unknown.
+
+Individuals exiting SCP-715 are to be classified as SCP-715-B instances, and do not appear outwardly anomalous.
+
+SCP-715-A instances are currently contained within Site 81/715. Research into the nature of these instances is currently pending approval restricted. SCP-715-A instances [DATA RESTRICTED: See below for additional information].
+
+Site 81/715 Protocol: [ACCESS RESTRICTED]
+
+Addendum 715/A: [ACCESS RESTRICTED]
+
+Incident Report 715/A: [ACCESS RESTRICTED]
+

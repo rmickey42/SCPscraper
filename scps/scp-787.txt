@@ -1,0 +1,26 @@
+Item #: SCP-787
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-787 is currently contained within Hangar 04 at Sector-28. Security cameras and sound recording equipment are to be stationed in the cockpit, passenger area, and baggage hold of SCP-787 to record any anomalous events. In the event of any anomalous activity within SCP-787, access to the interior of SCP-787 is to be prohibited for a minimum of 72 hours.
+
+Description: SCP-787 is a Boeing 747-200 airliner of unknown manufacturing date and call sign. The exterior of SCP-787 has been painted over, including all passenger windows: Paint was wet upon recovery, drying soon after. The mechanical components of SCP-787 are all undamaged and functional, and show no signs of use. Nonmechanical components of SCP-787, including carpeting, upholstery, and luggage, are in an advanced state of decay. The pilot and co-pilot’s seats have been removed, replaced with two piles of computer components arranged in the shape of chairs.
+
+SCP-787 initially manifested on June ██, 1987, in a field located approximately ███ km from Bremerton, Washington.
+
+SCP-787 contains the bodies of 515 deceased individuals, henceforth referred to as SCP-787a. The cause of death varies among specimens, with causes including strangulation, exsanguination, drowning, starvation, bullet wounds, stab wounds and blunt force trauma. Certain mutilations are common throughout SCP-787a specimens regardless of cause of death, including removal of the tongue (23 instances), scalping (73 instances), carving of Cyrillic letters into the left palm (230 instances, no pattern found) and removal of fingertips (498 instances). All SCP-787a specimens are in advanced stages of decay, but have shown no signs of further putrefaction.
+
+Visual apparitions or unexplained noises will spontaneously manifest within SCP-787. These incidents have not occurred when SCP-787 is occupied. Attempts to enter SCP-787 after these events will result in violent physical expulsion from SCP-787 by an unknown force, accompanied by severe organ damage and internal bleeding. The period this secondary effect remains varies, but has not lasted longer than 72 hours.
+
+Recorded anomalous activity within SCP-787 includes:
+
+Addendum-01: 12/13/2007 - The identity of SCP-787a-112 has been determined to be that of ███████ ██████████, a retired optometrist currently living in Atlanta, Georgia. Subject was interviewed by Foundation agents on December 14th, and was found to have no knowledge or memory of any anomalous incidents taking place in June of 1987. In addition, Mr. ██████████ claimed that he had never ridden in an airplane in his life, a claim verified by his wife and son.
+
+Attempts to identify other passengers are currently underway.
+
+Addendum-02: Examination of SCP-787’s waste storage tank revealed an additional specimen of SCP-787a, designated SCP-787a-516, being an Indian male approximately 30 years of age. Subject was in possession of the following:
+
+SCP-787a-516 does not display a similar state of decay as the rest of SCP-787a specimens. Cause of death is unknown.
+
+Addendum-03: 06/19/2013 – SCP-787’s flight data recorder has been recovered from a compartment underneath the floor of seat A13. The device was wrapped in butcher paper with the compartment filled with asbestos and dried human blood. Flight data recorder contained nothing but the phrase “TO BE SORRY”.
+

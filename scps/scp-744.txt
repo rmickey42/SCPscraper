@@ -1,0 +1,16 @@
+Item #: SCP-744
+
+Object Class: Euclid
+
+Special Containment Procedures: Due to SCP-744's immobility, Containment Facility 744-A has been built around it. A two kilometer perimeter surrounding the area is blocked off with a concrete wall topped with concertina wire, and is monitored by security cameras. Guard posts located on the perimeter are to be manned by security personnel armed with standard field gear. Any items produced by SCP-744 are to be retained until they can be used.
+
+Description: SCP-744 is a large abandoned factory covering approximately 30 acres, located in ███████, WV. SCP-744 is only semi-operational, with most of the manufacturing equipment having either degraded to the point to where it no longer functions, or having been deliberately damaged by an unknown party at some point prior to SCP-744's containment. The portions of SCP-744 that are functional contain many types of manufacturing equipment that would normally not be associated with each other, including large industrial looms, automobile manufacturing equipment, and large pistons that do not seem to serve any purpose whatsoever. Current research at Containment Facility 744-A is dedicated to studying possible connections between these machines.
+
+SCP-744's anomalous properties manifest once every 56 hours. During this time period, SCP-744 will activate its manufacturing equipment. While SCP-744 is active, it will actively use its manufacturing equipment to produce items [For a partial list of these items, see the Log of items produced by SCP-744]. All items manufactured by SCP-744 are moved via conveyor belt into a large antechamber which appears to have been designed to assemble them into one machine. This chamber is no longer functional. It is unknown where SCP-744 obtains the materials it uses to manufacture these items.
+
+SCP-744-1 is a voice, calling itself ████ ██████. SCP-744-1 claims to be a production manager for SCP-744, and that it is in an undisclosed location within SCP-744. SCP-744-1 will attempt to communicate with any person who enters SCP-744 through the use of speakers which are located throughout SCP-744. These communications usually consist of SCP-744-1 attempting to convince the person that SCP-744 is a highly advanced manufacturing facility in need of minor repairs, and to convince the person that they should assist it in restoring SCP-744 so it can resume working towards its "purpose". Attempts to receive further explanation of this "purpose" from SCP-744-1 have failed; the entity is either unable or unwilling to provide further details on this subject.
+
+SCP-744 was discovered on ██/██/1954, when reports of a "Haunted Factory" reached agents embedded in the local military base. Agents dispatched to investigate SCP-744 were able to establish communications with SCP-744-1 and confirm its anomalous nature. Containment procedures were enacted on ██/██/1955, with the construction of Containment Facility 744-A. Persons known to have reported the "Haunted factory" story were issued Class-C amnestics. Containment was successfully completed by agents of MTF-ψ-7 "Home Improvement". As of ██/██/1961, SCP-744 has been classified as Euclid.
+
+Addendum 744-A: Log of communications with SCP-744-1. Interviews granted by SCP-744 have been very brief, due to SCP-744-1's uncooperative nature.
+

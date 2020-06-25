@@ -1,0 +1,24 @@
+Item #: SCP-951
+
+Object Class: Safe
+
+Special Containment Procedures: A copy of SCP-951-1 is to be kept in a standard containment locker and to be used only for testing. Extensive information suppression of SCP-951 is not necessary; however, websites concerning video game glitches or bugs are to be regularly monitored for descriptions of SCP-951, and any individuals discussing SCP-951 are to be made to believe that SCP-951 is a regular, non-anomalous glitch. Individuals further perpetuating SCP-951's anomalous nature are to be located and given a Class-A amnestic and their copy of SCP-951-1 replaced with a confirmed non-affected cartridge. In addition, Foundation-sponsored ROM image files of non-anomalous copies of SCP-951-1 are to be distributed to avoid accidental upload of affected cartridges and minimize exposure to SCP-951.
+
+Description: SCP-951 is a glitch found in the Sega Genesis/Sega Mega Drive game "Pauper: Rise of the Monster King" (hereby designated SCP-951-1), a turn based role-playing game created by Japanese developer ██████. The glitch has been found in approximately 1 out of every 3 cartridges; however, there does not appear to be any recognizable pattern found among the affected cartridges. Uploaded ROM image files of affected copies of SCP-951-1 do appear to have the same anomalous properties as physical cartridges.
+
+Typical gameplay consists of the player gathering party members, or "monsters", and using these monsters to fight in enemy encounters found throughout the game. Halfway through the first act of the game, the player is captured and taken to the "Dungeon of Dorlok". Normally in this instance, the player would meet with the character "Hirago" and use that character for subsequent battles during their escape. However, if the player skips talking to "Hirago" and instead escapes utilizing a bug found in the dungeon room that allows the player to walk through walls, the player has no monsters to use. In a non-affected cartridge, the game simply crashes after exiting the area. However, in an affected cartridge, the next battle encounter will introduce an instance of SCP-951 in the players party.
+
+SCP-951 (nicknamed "LUCAS" in game) does not have a defined figure, instead displaying as a block of randomized pixels. Despite this, SCP-951 functions like a regular monster, utilizing special skills from the movesets of other monsters in the game during battles. At specific scripted points of the game wherein the character "Hirago" is meant to have dialogue, SCP-951 replaces the character's dialogue with mostly garbled text, though recognizable words such as "friend" and "play" have been observed. Repeated tests of these scripted events have shown that dialogue displayed changes with each play through.
+
+Continued use of SCP-951 will cause other bugs to occur within the game, including:
+
+Outside of scripted dialogue encounters, SCP-951 has displayed the ability to communicate with personnel through the use of dialog boxes that appear onscreen outside of battles, understanding vocalizations of researchers. Text displayed within these boxes is much clearer, and SCP-951 appears to be very friendly when communicating, often suggesting methods of working through the game quickly and effectively.
+
+As the game progresses, SCP-951 continues to increase in power with the player, and continues to assist the player with each fight. If the game is beaten using SCP-951, the cutscene at the end detailing the fates of each of the characters plays as normal, however the scene detailing the fate of "Hirago" is replaced with SCP-951, and says "LUCAS made a new friend, and will always cherish the time they had playing together. Thank you for knowing me." Starting a new game after completing a game and performing the glitch will result in the new instance of SCP-951 having no memory of the player or any conversations it may have had.
+
+Addendum: The following is a sample of discussion concerning SCP-951-1 and SCP-951 for Foundation intelligence agents to use as a guide on how to handle discussions concerning SCP-951 (In this instance, the user Anonymoose is the Foundation agent):
+
+Addendum: The following is an interview log with SCP-951 conducted on May 13, ████:
+
+Addendum: The following printed document was recovered alongside sixteen affected cartridges of SCP-951-1. In addition, each cartridge was engraved with a serial number, one of which having the word "PRIME" engraved after its serial number. Investigation into the serial numbers is ongoing, however results so far have been inconclusive.
+

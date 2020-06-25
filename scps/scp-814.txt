@@ -1,0 +1,12 @@
+Item #: SCP-814
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-814-1 is to be kept in a sprung, evacuated anechoic chamber within the Quiet Area of a Type IV acoustic containment facility. SCP-814-2 is to be stored in a climate-controlled locker outside the facility's Quiet Area. As its mechanisms are very fragile, SCP-814-1 is not to be accessed under any circumstances without the authorization of its Senior Researcher or HMCL. In the event of a Site emergency, SCP-814 is to be remotely destroyed.
+
+Description: SCP-814-1 is an ornate mahogany enclosure housing an antique wax-cylinder type phonograph (c. 1900 CE) of unique design. The internal mechanism, which is completely functional, is capable of holding up to four music cylinders; notably, it is capable of the replay of multiple cylinders simultaneously. The manufacturer's mark "SYNCOPE" is etched on several of the phonograph's components.
+
+SCP-814-2 is a set of four phonograph cylinders recovered from SCP-814-1's four cylinder slots. These cylinders are of approximately the same age as SCP-814-1, albeit made of hardened steel rather than wax. Each cylinder has the phrase "PURE TONE" engraved on each end, followed by a number indicating the frequency, in Hz, of a sine-wave tone produced by playing the cylinder.1 The cylinders' audio grooves are engraved with extreme precision; even under confocal microscopy, the grooves show no apparent deviation from the pattern required to produce a pure tone of precisely the given frequency.
+
+Addendum: After Incident 814-BREAKGLASS, in which unauthorized recordings were placed in three of the four slots and the Volume setting was set to 6/10, experimentation with SCP-814-1 is suspended indefinitely.
+

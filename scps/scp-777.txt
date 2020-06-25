@@ -1,0 +1,28 @@
+Item #: SCP-777
+
+Object Class: Euclid
+
+Special Containment Procedures: The area known as SCP-777 is to be contained behind two (2) meter tall electrical fencing. Motion activated turrets are to be placed within the area in order to prevent any instances of SCP-777-1 from escaping the containment area. No liquids are allowed within the area known as SCP-777.
+
+Any civilians approaching SCP-777 are to be interrogated and subsequently dosed with Class-A amnestics. For the sake of secrecy, SCP-777 is to be represented as a military bombing range on all maps of the area, and any satellite imaging is to be doctored by dedicated staff to represent the area as such.
+
+Any personnel entering SCP-777 are to wear sealed ventilated pressure suits to prevent liquid coming into contact with SCP-777. These suits are to be checked for ruptures before entering SCP-777. Any instances of SCP-777-1 outside of SCP-777 are to be destroyed at the first possible opportunity.
+
+In the event that SCP-777 experiences rainfall, on-site personnel are to authorize a bombing run to neutralize the threat posed.
+
+Description: SCP-777 is an area of land spanning five square kilometers located in the ██████ Desert, referred to by locals as 'The Kingdom of Sand'. Unidentified radio interference is present within SCP-777, with the source currently unknown.
+
+SCP-777 demonstrates a further anomalous property when sand within the area comes into contact with any type of liquid. The moisturized sand will animate, typically taking the shape of an animal proportionate to the amount of sand moisturized. These entities will hereafter be referred to as SCP-777-1.
+
+Instances of SCP-777-1 will behave aggressively to any lifeforms that enter SCP-777, and will attack on sight. SCP-777-1 will single-mindedly hunt their prey and have on several occasions followed intruders out of SCP-777 and to nearby towns.
+
+Instances of SCP-777-1 do not appear to attack each other, and instead behave in a hive mind, using flanking maneuvers to distract and kill their victims. SCP-777-1 typically collapse and become inanimate if not provided with further moisture after twenty-four (24) hours, although this timescale seems to be longer in smaller instances.
+
+Sand retrieved from SCP-777 appears to retain its anomalous qualities until it is taken a further six (6) kilometers away from SCP-777. Taking advantage of this, a research outpost has been established two (2) kilometers away from SCP-777, and research on the anomalous sand is currently being undertaken.
+
+Analysis of the radio interference and evidence given in Interview 777-1 indicate that the source of the anomalous events is the center of SCP-777. However, all attempts to reach it have met with failure.
+
+History: SCP-777 was discovered by the Foundation during a routine myth verification operation undertaken by Mobile Task Force Zeta-17 "Beach Bullies". Contact was lost with Task Force Zeta-17 one (1) hour after the mission began.
+
+Mobile Task Force Phi-22 "Well Wishers" then began a rescue operation and managed to retrieve ██████ █████, the leader of Mobile Task Force Zeta-17 and only survivor of the incident, on the outskirts of SCP-777, who informed research staff of SCP-777's nature.
+

@@ -1,0 +1,20 @@
+Item #: SCP-736
+
+Object Class: Keter
+
+Special Containment Procedures: Direct observation of SCP-736 is to be coordinated through Foundation intelligence assets in the European Space Agency, National Aeronautics and Space Administration, China National Space Administration, and Russian Federal Space Agency. The next mission for close observation of SCP-736 is scheduled for 2022, and is designed to be a clandestine science objective for the European Space Agency's Jupiter Icy Moon Explorer project. Ground-based telescope observation of Iapetus and the Saturnian system is to be maintained at all times.
+
+All major astrophysics research centers and universities are to be monitored by the Foundation Office of Celestial Anomalies for awareness of SCP-736. During SCP-736 events, internet traffic is to be monitored for reports of irregularities in Iapetus' orbit. In cases where non-Foundation researchers have identified SCP-736, amnestics and information suppression protocols are authorized to prevent widespread knowledge in the scientific community.
+
+Description: SCP-736 is an anomaly affecting the Saturnian moon Iapetus. For brief periods generally lasting several days, Iapetus' orbit is spontaneously altered by measures of eccentricity, orbital period, or both. The orbit of Iapetus returns to its documented state after these spontaneous changes. Models of temporary orbits almost entirely consist of Iapetus undergoing orbital decay, and in most scenarios is projected to collide with Saturn (and, depending on the projection, other Saturnian moons) at some point within the next 150-300 years. These projected orbits are all in direct violation of mathematical models and both classical and relativistic physical principles, which do not predict a decay in the orbit of Iapetus due to tidal effects or gravitational radiation.
+
+Additionally, changes in Iapetus' eccentricity and orbital period do not proceed in a constant manner. Instead, these changes happen at different rates and at relatively large intervals. Since analysis of SCP-736 began in 2007, researchers have recorded 159 variations in the rate of Iapetus' orbital decay.
+
+Statistical analysis of trends in the changes to SCP-736 and the various results of computer modeling of Iapetus' orbit has revealed that changes in its orbital decay do not occur randomly. Instead, variances have occured in groups, centered around what appears to be a central set of numerical values and a series of calibrations to achieve them. To date, 8 discrete orbits have been observed for Iapetus.
+
+SCP-736 is believed to be directed by an intelligent entity. On September 10, 2007, during the Cassini-Huygens flyby of Iapetus, the spacecraft was contacted by a then-unknown source of radio transmissions. Telemetry analysis revealed the source to be located on the surface of Iapetus. Foundation assets within NASA immediately seized information transmitted from the source and commenced an information suppression campaign. Approximately 8.2 terabytes of data were transmitted from the surface of Iapetus in a time period of 12 seconds. Analysis of the data was inconclusive, as most of it seemed to be random configurations of number values represented by a series of repetitive tones. However, the transmission has served as evidence of a sapient, technologically advanced presence on Iapetus. All communication attempts by Foundation staff have thus far been unreciprocated.
+
+Research Log 736-4: List of Iapetus Orbital Decay Simulations
+
+Addendum 736-1: SCP-736 reclassified to Keter effective 02/03/2012. - O5-4
+

@@ -1,0 +1,34 @@
+Item #: SCP-684
+
+Object Class: Euclid
+
+Special Containment Procedures: As SCP-684 is too large and massive to relocate, much less fully contain in any orthodox sense, HotBox procedures are in effect. If SCP-684 is judged to have expanded beyond the coordinates of [COORDINATES REDACTED], containment is said to have failed, and HotBox borders are to enact standard deterrent methodologies1.
+
+No staff living on the surface of SCP-684 are allowed to know the true nature of SCP-684. This specific file is not to reach any observation post studying SCP-684.
+
+Description: SCP-684 is a massive object (assumed to be a living creature) found on the seafloor of the Indian Ocean. It is irregular in shape, with the center of its mass located at approximately ██.██, -███.██. From that center mass, SCP-684 extends approximately 70 km outward, maintaining an average height above seafloor of 12 m.
+
+The outward 'skin' of SCP-684 is dark brown, with a rough, grainy texture. There is a slight 'give' when pressure is applied to its surface. From time to time, small sections of SCP-684's surface will dimly glow a faint blue, yellow, or pink hue. These lights tend to move in the direction of SCP-684's center mass, or to six slowly-pulsating sphincters that are believed to be mouth analogues.
+
+History: Upon discovery of SCP-684 in 19██, the Foundation attempted to place a prefabricated research outpost near SCP-684. Due to ocean currents, the post landed on the surface of SCP-684 instead. As the outpost structure was undamaged by said misplacement, O5-█ authorized the deployment of Researcher █. ██████ to the post, later dubbed Station Alpha.
+
+Three days later, Station Alpha was seen (via long-range underwater video) being enveloped and destroyed by a localized undulation of SCP-684's mass. When a recovery mission arrived twenty-four hours later, Station Alpha was found completely intact. When entered, Researcher ██████ was interviewed as having no memory of any SCP-684 disturbance, although expressing slight annoyance that Station Alpha "hadn't yet gotten that rover I was promised". When questioned, ██████ offered up a Foundation printout, citing orders to use an underwater rover to push animal carcasses to SCP-684's sphincters.
+
+Off-site analysis of both Researcher ██████ and sections of Station Alpha were discovered to be elaborate copies of their original selves. During this off-site analysis, Station Alpha was seen 'regrowing', complete with another copy of Researcher ██████. This 'new' copy had no memory of the earlier copy's actions or memories.
+
+It is currently theorized that SCP-684 assimilates and reproduces stations, and their crew, for tasks related to its survival and self maintenance. Each station is capable of issuing orders to its pseudo-crew in ways that mimic the originals, so that all assimilated crewmembers treat the orders as legitimate2. These orders are phrased in such a way that the crew believes its actions are intended to 'contain' SCP-684, leading to no doubts among the assimilated crew that anything is amiss. It would seem that SCP-684 deliberately takes the effort to ensure that station crew, despite being fabricated, are kept in good mental and physical health, ignorant about their true nature or purpose.
+
+To test and confirm said hypothesis, the Foundation has placed four more prefabricated stations on the surface of SCP-684. In short order, each of these stations and their crews (listed below) have all been assimilated and refabricated by SCP-684. Each one does not know about the others; the designations are exclusively for Foundation use.
+
+Addendum-1: Stations
+
+Below are the location and duties of all five stations currently placed on SCP-684. For ease of understanding, False Ordered Task is a brief synopsis of the actions each station believes the Foundation has ordered them to do in order to contain SCP-684 (or at least keep it in a stable state), and Assumed Actual Role is what the Foundation believes the station's actual role to SCP-684 is.
+
+Station Iota is currently the least understood station, owing to its task of harvesting SCP-684-1. SCP-684-1 takes the shape of small (2 cm to 8 cm) spheres of varying color, which bud off the skin of SCP-684. Any given nodule reaches full size in three weeks, remaining attached for a week before disconnecting from SCP-684 and being carried off by ocean currents. SCP-684-1 has been seen as a supplementary source of nutrition for the entire food pyramid surrounding SCP-684. Examination of sea life that consistently feeds on SCP-684-1 shows increases in size, general health, and overall increased fitness. Human consumption of 684-1 has not yet been approved, but many Foundation researchers believe that SCP-684 grows SCP-684-1 in way of recompense for absorbing and refabricating its 'caretakers'.
+
+Addendum-2: Interviews and Communication
+
+Transmission 684-JH9-4
+
+Transmission 684-AZ48-1
+

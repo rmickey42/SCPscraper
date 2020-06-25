@@ -1,0 +1,34 @@
+Item #: SCP-960
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-960 must be kept in a 10 cm-thick seamless, steel cubic container measuring 50 cm x 50 cm x 60 cm. Those conducting research upon it are to be the only ones given the codes that unlock its room and container. Any handling of SCP-960 is to be conducted while the researcher is wearing gloves or other protective equipment (except when it is being tested upon D-class or other subjects).
+
+Until he or she has created nine original works, any human who comes into contact with SCP-960 by the skin is to be kept in an isolation ward and provided with whatever supplies they ask for, given that these items are cleared for their use by appropriate officials. Immediately after completion of the ninth opus, however, the subject is to be terminated.
+
+Description: SCP-960 is a sizable fragment of what is speculated to be an ancient Greek vase, discovered on the island of ████, near the site of the ancient Minoan city of ███████. On its surface are depicted three Muses; the two identifiable ones are Melpomene, in the middle, and Clio, on the left. The one on the right, shown as holding a dagger to her own neck, has never been seen in any other piece of Greco-Roman art and cannot be identified as appearing in any recorded myth.
+
+A short but variable time after a human touches SCP-960, the subject will be struck at ever-closer intervals by a series of original ideas. The natures of these inspirations always follow a strict progression:
+
+Subjects exposed to SCP-960 will invariably request the materials they need to complete these works; if they do not receive them, they will become belligerent and uncooperative until their requests are satisfied or until they find suitable substitutes.
+
+It is worth noting that the ideas are never written down in any sort of rough copy; they only ever appear as the final product, as if a full-fledged idea had entered the subject's head and left it unchanged. Subjects also display extraordinary talent in each of the fields listed above, but only for as long as they are working on completing their tasks.
+
+After the aforementioned itinerary is exhausted, the inspirations become more sinister. All creative energy previously spent on the arts and sciences is focused on devising ingenious methods of violence. Instead of asking for materials at this stage, the subject will begin to seek them out proactively. Records pertaining to the stages of exposure are detailed in the Addenda.
+
+Addendum 960-01:
+
+One week after this last accomplishment, by the family's reckoning, the ██████████' next-door neighbor died in a fire at her home. The [DATA EXPUNGED] Fire Department issued a report naming the source of the blaze to be a can of hairspray fitted internally with a complicated mechanism similar to a pilot light on a stove and left on her bathroom counter. After local authorities learned that Mr. ██████████ had disappeared without warning just prior to his neighbor's death, the archaeologist was brought in for questioning. He, however, escaped the police by impaling [DATA EXPUNGED] and fighting his way out of the station to a side street. He then fled on foot; however, Agent ████, who had heard reports of a murderer with abnormal strength on the run, captured the man and, when it became clear that no alternative solution presented itself, was required to terminate the subject.
+Note: Mr. ██████████ wrote in his notes about a fourth figure on the fragment he discovered; this figure was apparently not a muse, but the depiction of a god outside the accepted Greco-Roman pantheon. Its significance is unclear, and Mr. ██████████ failed to include any photographs or sketches of the deity in his notebook.
+EDIT: The fragment with the unidentified deity has been retrieved and reattached. Its function is still not known.
+
+Addendum 960-02:
+
+After an undetermined length of time had passed since this last dissertation, Dr. ███ was caught by state law enforcement as he was plotting a way to free the inmates of a nearby maximum-security prison. Targets of the jailbreak given particular emphasis in the scheme included mass murderers [DATA REDACTED], and local serial highway sniper [DATA REDACTED]. When Dr. ███ refused to surrender and attempted to attack one of the officers, he was killed at the scene.
+
+Addendum 960-03:
+
+On the night of ██/██/████, the subject left the sewers and broke into a pawn shop; here, he stole a number of weapons and a massive length of wire. He then forced entry into a nearby office building and made his way to the roof, then began firing indiscriminately at the people beneath him and at those in adjacent buildings. Casualties were not given a definite figure, but are estimated to be at least ██. Police soon responded, but Mr. ████████ managed to incapacitate or kill seven officers on the ground before they made any significant progress. When a police helicopter arrived, ████████ - having tied one end of the wire around his ankles and the other to a small fan attached to the roof - jumped from the building, most likely under the assumption that the wire would act as a bungee cord. It instead severed his feet; vital signs were confirmed absent upon landing. SCP-960 was recovered by the Foundation from the sewers beneath, soon afterward.
+
+More recent experiments have not had the detrimental effects of SCP-960 set in so quickly or so vehemently; research should be directed at understanding why Mr. ████████ was such an anomalous case.
+

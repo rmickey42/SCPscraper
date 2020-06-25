@@ -1,0 +1,22 @@
+Item #: SCP-928
+
+Object Class: Euclid-exsequi
+
+Special Containment Procedures: SCP-928 is kept in a glass viewing case situated at the far end of a 3m x 5m containment room at Site 80. The case can be unlocked by the concurrent use of two keys. These keys are currently held by Researcher Short and Researcher Kaplan. At least two personnel must be present at all times when SCP-928 is being interacted with.
+
+SCP-928 must be monitored with audio and visual surveillance at all times. Recordings are to be analyzed by staff at Site 80.
+
+All chess moves dictated by SCP-928 must be recorded in Document 928-3. Attempts to reconstruct the game that it is playing are ongoing.
+
+Description: SCP-928 is a doll made primarily of ceramic and cloth. The eyes of the doll are capable of movement and will usually follow any person in the vicinity. SCP-928 is otherwise physically unremarkable.
+
+Although its mouth does not move, SCP-928 is capable of producing vocalizations. These vocalizations resemble those of a middle-aged human male with an as-of-yet unidentified accent and typically consist of exchanges of pleasantries or requests for clarification of some sort. Upon review of available data, background noises have been isolated, which may imply that SCP-928 is producing recordings of some sort, rather than producing the sounds wholesale. Background noises noted so far include:
+
+Periodically, SCP-928 will issue commands corresponding to movements in a game of Capablanca chess.1 In most cases, there will be several weeks or months between commands, but intervals have ranged from three hours to eight years. Commands are not always issued in correspondence with formal chess notation, but are comprehensible.
+
+No link has been firmly established between the status of the match SCP-928 is playing and the vocalizations it makes. It is not currently believed to be speaking to Foundation personnel. Vocalizations deemed not notable are available in Document 928-6. No personal information about the entity or entities controlling SCP-928 has been noted.
+
+If a human subject comes within three meters of SCP-928, SCP-928 will vanish and reappear adjacent to the subject several seconds later. However, if there is at least one additional human within three meters of the subject, SCP-928 will not exhibit this behavior. Approximately 65% of subjects exposed to this behavior have left Foundation custody through various means within four days of exposure, and none have been recovered.2 Of the 35% that remain in Foundation custody, none have died or experienced demotion of any sort.
+
+Though technically impossible to confirm, it is generally accepted that SCP-928's commands correspond to events that occur in the real world, due to the timing of moves made by SCP-928 and the placement of [REDACTED].
+

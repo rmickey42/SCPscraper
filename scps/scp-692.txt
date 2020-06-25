@@ -1,0 +1,24 @@
+Item #: SCP-692
+
+Object Class: Safe
+
+Special Containment Procedures: Each package of SCP-692 is to be stored in a sealed plastic container. Any cloth, synthetic textile or other coming into contact with SCP-692 is to be incinerated within one (1) hour of incident, unless it is being used for testing, in which case it is to be incinerated after testing.
+
+Security personnel present at testing are to be equipped with standard-issue gas-based flamethrowers.
+
+Description: SCP-692 comprises 57 packages of "Weisser Riese" washing powder secured by the Foundation from a general store in ██████, Czech Republic, and several households nearby. All of the packages belong to the ████/███ production series.
+
+Chemical testing reveals no statistically significant deviations from composition with respect to "Weisser Riese" washing powder of unaffected production series.
+
+When an article of clothing exposed to SCP-692 comes into uninterrupted contact at least fifteen (15) minutes long with a living, multicellular organism, within following four (4) to fifteen (15) hours, the article, (referred to as SCP-692-1) will spontaneously animate.
+
+SCP-692-1 at this stage show the contours of the imprinting organism, although bisection of several instances of SCP-692-1 has revealed that the inside of such contour contains air at ambient pressure.
+
+Through an as-of-now unknown mechanism, SCP-692-1 is capable of locomotion, manipulation of objects, and at times, accretion of more articles of clothing into its mass. Furthermore, SCP-692-1 with a single "nucleating" item will behave as a single entity, even if there is no physical connection between the items.
+
+The mode of behaviour of SCP-692-1 depends on the length of exposure to the imprinting organism, longer times resulting in a higher quality of simulation - approximately three hours of uninterrupted contact are sufficient for the imprinting of most mammals.
+
+SCP-692-1 are unaffected by most mechanical damage, and as such, incineration is the recommended method of disposal.
+
+Addendum 692-1:
+

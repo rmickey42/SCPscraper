@@ -1,0 +1,16 @@
+Item #: SCP-949
+
+Object Class: Safe
+
+Special Containment Procedures: The area in which SCP-949 manifests itself is to be surrounded by two (2) meter tall electrical fencing. The perimeter of the containment area is to be patrolled by guards at all times, operating in groups of four (4). Due to the size of SCP-949, use of vehicles is authorized during security patrol.
+
+Any civilians approaching SCP-949 are to be taken into Foundation custody and dosed with a Class-A amnestic. Exploration of SCP-949 is to be carried out using D-class personnel. Exploration of SCP-949 must be authorised by three (3) members of Level 4 personnel.
+
+Description: SCP-949 is a large amusement park located in the state of ███████ which, according to the entrance gate and several documents within the park, is designated 'Wondertainment Land®'. SCP-949 has been observed to periodically disappear from its location on several occasions, often reappearing several days after with new facilities.
+
+Facilities inside SCP-949 demonstrate highly anomalous properties, more information on which is available in Facility Log 949-1. These anomalous facilities do not appear to intentionally cause harm to humans, and no casualties have occurred during exploration of SCP-949 as-of-yet. All of SCP-949's facilities are staffed and maintained by instances of SCP-949-1.
+
+Instances of SCP-949-1 appear similar to typical amusement park mascots, and their costumes depict a variety of animals. All instances of SCP-949-1 seem to wear a unique costume, and no duplicates have been sighted to date. Autopsy of recovered SCP-949-1 instances show that their interior is composed entirely of wool, confirming a lack of human presence. SCP-949-1 instances consistently maintain a cheerful attitude despite the situation, even when being dissected or otherwise injured.
+
+Several advertisements for SCP's currently in containment are present in the form of posters or souvenirs. SCP's depicted in these advertisements include, but are not limited to, [DATA EXPUNGED]. All SCP's depicted appear to be related to the individual or organisation known as 'Dr. Wondertainment'. This, together, with the name of the amusement park, suggests that it is the creation of this entity.
+

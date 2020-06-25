@@ -1,0 +1,38 @@
+Item #: SCP-819
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-819 is currently housed in a secured locker in Site-19. Permission from Dr. Dreyn is required to access items SCP-819-A through F.
+
+Description: SCP-819 was discovered in a pediatric office in ███████, ███████, after several reports of children being rushed back with symptoms including vision loss, severe nasal pain, and idiopathic unconsciousness. Agents dispatched found that the lollipops offered to the children were causing different bodily fluids to disappear. The candy in question was confiscated, and the office staff, affected patients and their guardians were treated and administered Class-A amnestics.
+
+SCP-819 refers to the contents of a large box of seemingly normal lollipops produced by [REDACTED]. It appears only the one package recovered is exhibiting these anomalies. SCP-819 consists of six flavors of lollipops, individually wrapped and on looped safety sticks, classified as SCP-819-A to F. Current total of items SCP-819-A through F is ███, with ██ having been used for testing. Physically and chemically, these items appear normal, and can be destroyed and consumed like any other lollipop. Fragments of the lollipops retain the effects. The flavors are mundane as lollipops go, reportedly tasting the same as unaffected lollipops of the same brand. Experimental testing found that each flavor affects a different bodily fluid.
+
+The affected fluid is only drained while the lollipop is actively consumed, and levels return to normal per typical generation by the body, assuming the mechanism for generation was not damaged during the loss of fluid. There is no compulsion to eat the lollipops, nor a compulsion to stop once all fluid is drained, assuming the body can survive without.
+
+During testing, the only colors that produced fatalities directly from consumption were Red and Purple. It appears that the rate of loss is a consistent volume and not based on the total volume present in the body, as evidenced by the difference in times between fatalities in SCP-819-A and SCP-819-F. Where the fluids are displaced is yet unknown. Further testing will be performed as methods to trace this phenomenon develop.
+
+Cross research with SCP-466 indicates that fluids may be transferring into random people in various areas. See Experiment Log 819-466 for additional details. Research and requests unrelated to finding the means or system through which these fluids are transferred are on indefinite hold. Recommending reassignment to Euclid pending these findings.
+
+O5-8 - Reclassification denied. Item and its effects are still under control with containment.
+
+Further research may include monitoring hospital and medical records for people showing the following symptoms after consumption of the noted lollipop.
+
+Experiment Logs:
+
+Experimentation was performed on D class personnel to determine the effects of the different colors of lollipops on bodily fluids and progression of symptoms as they were consumed. Subjects were connected to various monitoring tools such as pulse oximeters, pneumographs, and ECG to monitor vitals during the course of experimentation.
+
+
+
+
+
+
+
+Note: While this may have some practical usage for field agents or sensitive operations, I would appreciate it if staff would stop requesting 819-C-1 for recreational uses. - Dr. Dreyn
+
+
+
+
+
+
+
